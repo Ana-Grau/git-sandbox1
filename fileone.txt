@@ -2,7 +2,8 @@
 
  New line to be commited in second commit
 
-
  Adding somthing additional. More to add
 
- Different addition
+ Different addition to create conflict.
+
+ //the new changes will come here

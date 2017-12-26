@@ -1,3 +1,5 @@
  The first commit to the file. This line will be commited to the repository.
 
  New line to be commited in second commit
+
+ Different addition

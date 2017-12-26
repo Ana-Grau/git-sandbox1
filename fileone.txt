@@ -2,4 +2,4 @@
 
  New line to be commited in second commit
 
- Adding something additional.
+ Adding something additional. More to add

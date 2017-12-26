@@ -1,1 +1,7 @@
 Commiting the changes from module 3 folder
+
+I started working on the feature and not yet ready for the commit.
+
+Missing testing data and specs from the PO
+
+Now I am done with the feature

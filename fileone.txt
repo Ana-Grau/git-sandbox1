@@ -7,3 +7,11 @@
  Different addition to create conflict.
 
  //the new changes will come here
+
+ Delete content to add something different
+
+ if (flag){
+ 	statements;
+ }else {
+	//statements...
+ }

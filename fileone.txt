@@ -2,9 +2,15 @@
 
  New line to be commited in second commit
 
+Distributing my changes
+
  Adding somthing additional. More to add
 
  Different addition to create conflict.
+ 
+  
+  Changes along the whole file
+ Changes along the whole file
 
  Delete content to add something different
 
@@ -15,3 +21,6 @@
  }
 
  I like making changes
+
+Working from another repository.
+

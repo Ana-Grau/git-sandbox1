@@ -8,3 +8,4 @@ Now I am done with the feature
 
 This is edited and been pushed to the remote repository
 
+Fixed a bug and committing the changes in the bug_fix branch

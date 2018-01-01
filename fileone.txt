@@ -51,3 +51,7 @@ return a % b;
 public boolean smaller(int a, int b){
 return a-b < 0;
 }
+
+public boolean bigger(int a, int b){
+return a - b > 0;
+}

@@ -27,3 +27,7 @@ Working from another repository.
 adding function one()
 adding function two()
 adding function three()
+
+public int add (int a, int b){
+	return a + b;
+}

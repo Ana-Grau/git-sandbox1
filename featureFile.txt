@@ -1,3 +1,6 @@
  Create feature file
 
  Modify feature file
+
+
+Preparing file for rebase

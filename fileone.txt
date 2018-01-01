@@ -47,3 +47,7 @@ return a/b;
 public int mod (int a, int b){
 return a % b;
 }
+
+public boolean smaller(int a, int b){
+return a-b < 0;
+}

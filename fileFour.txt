@@ -10,3 +10,4 @@ This is edited and been pushed to the remote repository
 
 I'm working on a feature and in the middle I want to merge the changes from the bug_fix branch
 
+Fixed a bug and committing the changes in the bug_fix branch
